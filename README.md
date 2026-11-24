@@ -7,7 +7,7 @@ Einseitige Portfolio-Website (reines HTML, CSS und JavaScript, kein Build-Schrit
 ```
 index.html          Seite mit Styles und Skripten
 media/              Videos, Poster und Bilder
-impressum.html      fehlt noch (wird von index.html verlinkt)
+impressum.html      Impressum
 ```
 
 ## Lokal ansehen
